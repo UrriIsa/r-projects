@@ -45,6 +45,12 @@ It is recommended to use RStudio as the environment since you can also download 
 2. Navega al folder deseado.
 3. Compila y corre los archivos. En cada una de las carpeta se indica de manera más específica.
 
+***Traduction :***
+
+1. Clone this repository (or just keep the files in the desired folders).
+2. Navigate to the desired folder.
+3. Compile and run the files. In each of the folders it is indicated in a more specific way.
+
 ---
 
 ## Proyectos / Projects
