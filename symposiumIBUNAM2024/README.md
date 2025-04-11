@@ -146,7 +146,7 @@ El código está separado por comentarios que indican secciones de código, cada
 
   #### Sección 3.1 Distribución Estatal / Section 3.1 State Distribution 
 
-    Analiza la distribución de especies en los estados con mayor número de registros y genera gráficas. Ejemplo para Veracruz. ***Traduction :*** Analyzes the distribution of species in the states with the highest number of records and generates graphs. Example for Veracruz.
+  Analiza la distribución de especies en los estados con mayor número de registros y genera gráficas. Ejemplo para Veracruz. ***Traduction :*** Analyzes the distribution of species in the states with the highest number of records and generates graphs. Example for Veracruz.
     ```r
     frecGenEspVera <- dataMexico %>%
      filter(est == "Veracruz") %>%
@@ -167,18 +167,19 @@ El código está separado por comentarios que indican secciones de código, cada
 
   #### Sección 3.2 Formas de Vida / Section 3.2 Life Forms
   
-    Visualiza la frecuencia de las formas de vida presentes en México y las grafica. ***Traduction :*** Se toma en cuenta el Bejuco. Visualizes the frequency of life forms present in Mexico and graphs them. The Bejuco is taken into account.
+  Visualiza la frecuencia de las formas de vida presentes en México y las grafica. ***Traduction :*** Se toma en cuenta el Bejuco. Visualizes the frequency of life forms present in Mexico and graphs them. The Bejuco is taken into account.
 
   #### Sección 3.3 Datos por Años / Section 3.3 Data by Years
   
-    Muestra los años con mayores registros y la evolución a lo largo del tiempo mediante gráficas de barras y de líneas. ***Traduction :*** it shows the years with the highest records and the evolution over time by means of bar and line graphs.
+  Muestra los años con mayores registros y la evolución a lo largo del tiempo mediante gráficas de barras y de líneas. ***Traduction :*** it shows the years with the highest records and the evolution over time by means of bar and line graphs.
 
   #### Sección 3.4 Datos de Instituciones / Section 3.4 Institutional Data
   
-    Ajusta y filtraa los datos de instituciones.
+  Ajusta y filtraa los datos de instituciones.
 
 ### Sección 4. Registros internacionales / Section 4. International Registrations
-  Analiza un poco acerca de los datos de países extranjeros, al igual que los picos de registros. ***Traduction : *** Analyze a little about the data from foreign countries, as well as the peak records.
+
+Analiza un poco acerca de los datos de países extranjeros, al igual que los picos de registros. ***Traduction : *** Analyze a little about the data from foreign countries, as well as the peak records.
   
 ---
 
