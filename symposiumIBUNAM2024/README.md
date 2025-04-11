@@ -80,24 +80,23 @@ This R project was developed to present at the UNAM Institute of Biology Student
 1. Clone this repository.
 2. Open the project in RStudio.
 3. Execute the following code block to install and load the necessary packages:
-
- ```r 
- install.packages("dplyr")
- install.packages("readxl")
- install.packages("readr")
- install.packages("graphics")
- install. packages("ggplot2")
- install.packages("patchwork")
- install.packages("tidyr")
-   
- library(dplyr)
- library(readxl)
- library(readr)
- library(graphics)
- library(ggplot2)
- library(patchwork)
- library(tidyr)
- `````
+   ```r 
+   install.packages("dplyr")
+   install.packages("readxl")
+   install.packages("readr")
+   install.packages("graphics")
+   install. packages("ggplot2")
+   install.packages("patchwork")
+   install.packages("tidyr")
+     
+   library(dplyr)
+   library(readxl)
+   library(readr)
+   library(graphics)
+   library(ggplot2)
+   library(patchwork)
+   library(tidyr)
+   ```
 
 ---
 
