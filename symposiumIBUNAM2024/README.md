@@ -147,7 +147,7 @@ El código está separado por comentarios que indican secciones de código, cada
   #### Sección 3.1 Distribución Estatal / Section 3.1 State Distribution 
 
   Analiza la distribución de especies en los estados con mayor número de registros y genera gráficas. Ejemplo para Veracruz. ***Traduction :*** Analyzes the distribution of species in the states with the highest number of records and generates graphs. Example for Veracruz.
-    ```r
+  ```r
     frecGenEspVera <- dataMexico %>%
      filter(est == "Veracruz") %>%
      group_by(gen_esp) %>%
@@ -163,7 +163,7 @@ El código está separado por comentarios que indican secciones de código, cada
             y = "Frecuencia") +
        theme_minimal() +
        theme(axis.text.y = element_text(size = 10, face = "italic"))
-    ```
+  ```
 
   #### Sección 3.2 Formas de Vida / Section 3.2 Life Forms
   
