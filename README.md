@@ -1,18 +1,16 @@
 # README
 
-Este repositorio contiene los ejercicios que he realizado en R, la realización de estos inicia en el primer semestre de mi licenciatura, dentro del ciclo escolar 2024-2. Sin embargo, en cada carpeta habrá más información acerca de cada proyect
+Este repositorio contiene los ejercicios que he realizado en R, la realización de estos inicia en el primer semestre de mi licenciatura, dentro del ciclo escolar 2024-2 (en el servicio social de mi Estudio Ténico Especializado en Computación). Sin embargo, en cada carpeta habrá más información acerca de cada proyecto.
 
 ***Traduction :***
 
-This repository contains the exercises that I have done in R, the completion of these begins in the first semester of my degree, within the 2024-2 school year. However, in each folder there will be more information about each project.
+This repository contains the exercises that I have done in R, the completion of these begins in the first semester of my degree, within the 2024-2 school year (in the social service of my Specialized Technical Study in Computing). However, in each folder there will be more information about each project.
 
 ---
 
 ## Table of Contents
 
 - [Requisitos / Requirements](#requisitos--requirements)
-- [Uso / Usage](#uso--usage)
-- [Proyectos / Projects](#proyectos--projects)
 - [Licencia / License](#licencia--license)
 
 
@@ -35,33 +33,6 @@ Se recomienda utilizar RStudio como entorno ya que también se puede descargar y
 - R libraries and packages: Install the packages needed for your project using install.packages("package_name"). Make sure that the packages you need are up to date.
 
 It is recommended to use RStudio as the environment since you can also download and/or update the libraries and packages.
-
-
----
-
-## Uso / Usage
-
-1. Clona este repositorio (o sólo manten los archivos de las carpetas deseadas).
-2. Navega al folder deseado.
-3. Compila y corre los archivos. En cada una de las carpeta se indica de manera más específica.
-
-***Traduction :***
-
-1. Clone this repository (or just keep the files in the desired folders).
-2. Navigate to the desired folder.
-3. Compile and run the files. In each of the folders it is indicated in a more specific way.
-
----
-
-## Proyectos / Projects
-
-- [Simposio IBUNAM 2024 / symposiumIBUNAM2024](#simposio-ibunam-2024)
-
-### Simposio IBUNAM 2024
-
-texto
-
- 
 
 
 ---
