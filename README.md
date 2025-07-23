@@ -1,10 +1,14 @@
 # README
 
-Este repositorio contiene los ejercicios que he realizado en R, la realización de estos inicia en el primer semestre de mi licenciatura, dentro del ciclo escolar 2024-2 (en el servicio social de mi Estudio Ténico Especializado en Computación). Sin embargo, en cada carpeta habrá más información acerca de cada proyecto.
+Este repositorio contiene los ejercicios que he realizado en R, la realización de estos inicia en el primer semestre de mi licenciatura, dentro del ciclo escolar 2024-2 (en el servicio social de mi Estudio Ténico Especializado en Computación). 
+
+Dentro de cada carpeta se encontrá la documentación y los comentarios del código en español e inglés. La separación se indica con la etiqueta “Traduction” o, alternativamente, con [ES] para el texto en español y [EN] para el texto en inglés. En todos los casos, la versión en inglés aparece siempre debajo del texto original en español. Además, cada carpeta contiene información adicional sobre el proyecto.
 
 ***Traduction :***
 
-This repository contains the exercises that I have done in R, the completion of these begins in the first semester of my degree, within the 2024-2 school year (in the social service of my Specialized Technical Study in Computing). However, in each folder there will be more information about each project.
+This repository contains the exercises that I have done in R, the completion of these begins in the first semester of my degree, within the 2024-2 school year (in the social service of my Specialized Technical Study in Computing). 
+
+Inside each folder you will find the documentation and code comments in English and Spanish. The separation is indicated with the label “Traduction ” or, alternatively, with [ES] for the Spanish text and [EN] for the English text. In all cases, the English version always appears below the original Spanish text. In addition, each folder contains additional information about the project.
 
 ---
 
